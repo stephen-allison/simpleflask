@@ -1,4 +1,3 @@
-from flask import Flask
 import simpleflask.web as web
 
 if __name__ == '__main__':
